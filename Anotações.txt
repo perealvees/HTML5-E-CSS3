@@ -1,0 +1,12 @@
+Seu primeiro código:
+htm - HYPERTEXT MARKUP LANGUAGEM
+
+Dentro da ta, ha duas separações: 
+a parte do head que é CONFIGURAÇÃO e body, que é o conteudo do site
+charset = utf-8 para ter acentuação
+__________
+
+Quebra de linhas e parágrafos:
+
+quebrar uma linha, usa o <br>(breaking row), não é usando "enter" e sim o <br> ou o <p/p>
+HTML Entities - usados para simbolos especiais como copyrigh, oficial, marca registrada etc
