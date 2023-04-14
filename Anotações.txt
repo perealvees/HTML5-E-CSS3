@@ -2,11 +2,29 @@ Seu primeiro código:
 htm - HYPERTEXT MARKUP LANGUAGEM
 
 Dentro da ta, ha duas separações: 
-a parte do head que é CONFIGURAÇÃO e body, que é o conteudo do site
-charset = utf-8 para ter acentuação
-__________
+a parte do head que é CONFIGURAÇÃO e body, que é o conteudo do site.
+charset = utf-8 para ter acentuação.
 
 Quebra de linhas e parágrafos:
 
-quebrar uma linha, usa o <br>(breaking row), não é usando "enter" e sim o <br> ou o <p/p>
-HTML Entities - usados para simbolos especiais como copyrigh, oficial, marca registrada etc
+Puebrar uma linha, usa o <br>(breaking row), não é usando "enter" e sim o <br> ou o <p/p>.
+HTML Entities - usados para simbolos especiais como copyrigh, oficial, marca registrada etc.
+Para ver emogis, acessar emogipedia.
+
+_____________________________________________________________________________________________
+
+IMAGENS:
+
+Se atentar aos direitos autorais.
+Sites para buscar imagens: unplash, pexels, freepik.
+Sites para editar fotos gratuito: gimp
+
+Formatos de imagem:
+Os mais comuns são JPEG e PNG
+JPEG - compacta a imagem, alta compactação
+PNG - usado para subsituir o GIF, que permite transparencia e animação
+
+
+
+
+
