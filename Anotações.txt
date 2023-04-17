@@ -24,7 +24,8 @@ Os mais comuns são JPEG e PNG
 JPEG - compacta a imagem, alta compactação
 PNG - usado para subsituir o GIF, que permite transparencia e animação
 
+_____________________________________________________________________________________________
 
-
+TAG IMG
 
 
