@@ -14,7 +14,6 @@ Para ver emogis, acessar emogipedia.
 _____________________________________________________________________________________________
 
 IMAGENS:
-
 Se atentar aos direitos autorais.
 Sites para buscar imagens: unplash, pexels, freepik.
 Sites para editar fotos gratuito: gimp
@@ -28,12 +27,9 @@ ________________________________________________________________________________
 
 TAG IMG 
 Sempre usar imagens pequenas para 
-
-
 ______________________________________________________________________________________________
 
 FAVICON
-
 Para adicionar um icone na janela do site, basta baixar uma imagem com extensão ico
 Tem como converter uma imagem em ico, através do site https://favicon.io/favicon-converter/
 Na html, deve usar a tag <link rel: favicon ...>
@@ -41,12 +37,15 @@ Manter padrão o nome do arquivo como favicon
 ______________________________________________________________________________________________
 
 HIERARQUIA DE TÍTULOS 
+Os niveis de hierarquia não tem nada a ver com tamanho, e sim ordem e estrutura do parágrafo
+Os niveis vai de 1 a 6
+_____________________________________________________________________________________________
 
+SEMÂNTICA HTML
+Ter significado o que esta estruturando
+Tags que estão em obsoleto NÃO DEVEM SER USADAS MAIS
 
-
-
-
-
+Consultar as tags em desuso: https://www.w3.org/TR/2014/REC-html5-20141028/obsolete.html
 
 
 
