@@ -26,6 +26,38 @@ PNG - usado para subsituir o GIF, que permite transparencia e animação
 
 _____________________________________________________________________________________________
 
-TAG IMG
+TAG IMG 
+Sempre usar imagens pequenas para 
+
+
+______________________________________________________________________________________________
+
+FAVICON
+
+Para adicionar um icone na janela do site, basta baixar uma imagem com extensão ico
+Tem como converter uma imagem em ico, através do site https://favicon.io/favicon-converter/
+Na html, deve usar a tag <link rel: favicon ...>
+Manter padrão o nome do arquivo como favicon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
