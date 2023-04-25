@@ -51,8 +51,19 @@ ________________________________________________________________________________
 
 FORMATAÇÕES DE FONTE
 
-atalho pra fotmatação rapida
-italico - ctrl+shift+p
+Atalho pra fotmatação rapida
+Atalho pra formatação - ctrl+shift+p > enter > tag desejada
+Para fazer uma formatação de marcação, podemos mudar as cores usando o estilo dentro do paragrafo
+ou criar uma tag style em baixo do title, e criar um "mark" para todas as vezes que precisar:
+usando o 
+mar {
+	background-color+ nome da cor
+}
+
+
+
+
+
 
 
 
