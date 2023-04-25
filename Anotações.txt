@@ -47,6 +47,13 @@ Tags que estão em obsoleto NÃO DEVEM SER USADAS MAIS
 
 Consultar as tags em desuso: https://www.w3.org/TR/2014/REC-html5-20141028/obsolete.html
 
+_____________________________________________________________________________________________
+
+FORMATAÇÕES DE FONTE
+
+atalho pra fotmatação rapida
+italico - ctrl+shift+p
+
 
 
 
