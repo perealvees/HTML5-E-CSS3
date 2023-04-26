@@ -61,6 +61,21 @@ mar {
 }
 
 
+_____________________________________________________________________________________________
+FORMATAÇÕES ADICIONAIS
+
+O comando code, deixa as palavras com tamanhos iguais.
+
+_____________________________________________________________________________________________
+CRIANDO LISTAS
+
+Para usa listas ordenadas, em sequencias, podemos usar a tag <ol>
+Para escolher o tipo de sequencia, usa se <ol type="i"> (temos o tipo, I,i,a,A e 1)
+usa se a tag, depois para lista os itens, usar <li>, o fechamento da <li> é opcional
+
+Para usa listas não ordenadas, podemos usar a tag <ul>
+Para escolher o tipo de sequencia, usa se <ol type="square"> (temos os tipos, disc circle square)
+
 
 
 
