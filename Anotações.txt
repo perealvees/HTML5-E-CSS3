@@ -32,6 +32,7 @@ ________________________________________________________________________________
 FAVICON
 Para adicionar um icone na janela do site, basta baixar uma imagem com extensão ico
 Tem como converter uma imagem em ico, através do site https://favicon.io/favicon-converter/
+
 Na html, deve usar a tag <link rel: favicon ...>
 Manter padrão o nome do arquivo como favicon
 ______________________________________________________________________________________________
