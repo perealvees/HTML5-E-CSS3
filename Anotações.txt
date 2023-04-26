@@ -77,9 +77,12 @@ Para usa listas não ordenadas, podemos usar a tag <ul>
 Para escolher o tipo de sequencia, usa se <ol type="square"> (temos os tipos, disc circle square)
 
 _____________________________________________________________________________________________
-LINKS
+LINKS INTERNOS E EXTERNOS
 
-Para navegar entre as pastas usando o a href: para ir pra próxima saur ctrl+espaco e procurar pasta. Para voltar clicar ../
+Você pode criar páginas dentro do seu próprio site, basta criar varias "index" e se atentar aos links
+Para navegar entre as pastas usando o a href: para ir pra próxima saur ctrl+espaço e procurar pasta. Para voltar clicar ../
+
+LINK DOWNLOADS
 
 
 
