@@ -76,6 +76,13 @@ usa se a tag, depois para lista os itens, usar <li>, o fechamento da <li> é opc
 Para usa listas não ordenadas, podemos usar a tag <ul>
 Para escolher o tipo de sequencia, usa se <ol type="square"> (temos os tipos, disc circle square)
 
+_____________________________________________________________________________________________
+LINKS
+
+Para navegar entre as pastas usando o a href: para ir pra próxima saur ctrl+espaco e procurar pasta. Para voltar clicar ../
+
+
+
 
 
 
