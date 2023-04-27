@@ -37,6 +37,11 @@ Na html, deve usar a tag <link rel: favicon ...>
 Manter padrão o nome do arquivo como favicon
 ______________________________________________________________________________________________
 
+EMOJIS
+
+usar o código &#x, seguido do número do emojo de acordo com emojipedia
+_____________________________________________________________________________________________
+
 HIERARQUIA DE TÍTULOS 
 Os niveis de hierarquia não tem nada a ver com tamanho, e sim ordem e estrutura do parágrafo
 Os niveis vai de 1 a 6
