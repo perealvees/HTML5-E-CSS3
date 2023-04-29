@@ -1,15 +1,15 @@
 Seu primeiro código:
-htm - HYPERTEXT MARKUP LANGUAGEM
+htm -> HYPERTEXT MARKUP LANGUAGEM
 
-Dentro da ta, ha duas separações: 
+Dentro da tag, ha duas separações: 
 a parte do head que é CONFIGURAÇÃO e body, que é o conteudo do site.
 charset = utf-8 para ter acentuação.
 
 Quebra de linhas e parágrafos:
 
-Puebrar uma linha, usa o <br>(breaking row), não é usando "enter" e sim o <br> ou o <p/p>.
+Quebrar uma linha, usa o <br>(breaking row), não é usando "enter" e sim o <br> ou o <p/p>.
 HTML Entities - usados para simbolos especiais como copyrigh, oficial, marca registrada etc.
-Para ver emogis, acessar emogipedia.
+Para ver emojis, acessar emojipedia.
 
 _____________________________________________________________________________________________
 
@@ -19,7 +19,7 @@ Sites para buscar imagens: unplash, pexels, freepik.
 Sites para editar fotos gratuito: gimp
 
 Formatos de imagem:
-Os mais comuns são JPEG e PNG
+Os mais comuns são JPEG e PNG entre outros
 JPEG - compacta a imagem, alta compactação
 PNG - usado para subsituir o GIF, que permite transparencia e animação
 
@@ -40,16 +40,18 @@ ________________________________________________________________________________
 EMOJIS
 
 usar o código &#x, seguido do número do emojo de acordo com emojipedia
+pode copiar direto mas é bom decorar o &#x
 _____________________________________________________________________________________________
 
 HIERARQUIA DE TÍTULOS 
 Os niveis de hierarquia não tem nada a ver com tamanho, e sim ordem e estrutura do parágrafo
-Os niveis vai de 1 a 6
+Os niveis vai de 1 a 6, não existe mais que isso
 _____________________________________________________________________________________________
 
 SEMÂNTICA HTML
 Ter significado o que esta estruturando
 Tags que estão em obsoleto NÃO DEVEM SER USADAS MAIS
+
 
 Consultar as tags em desuso: https://www.w3.org/TR/2014/REC-html5-20141028/obsolete.html
 
@@ -57,7 +59,7 @@ ________________________________________________________________________________
 
 FORMATAÇÕES DE FONTE
 
-Atalho pra fotmatação rapida
+Atalho pra formatação rápida
 Atalho pra formatação - ctrl+shift+p > enter > tag desejada
 Para fazer uma formatação de marcação, podemos mudar as cores usando o estilo dentro do paragrafo
 ou criar uma tag style em baixo do title, e criar um "mark" para todas as vezes que precisar:
@@ -66,17 +68,19 @@ mar {
 	background-color+ nome da cor
 }
 
-
+mas o mais recomendavel, é usar o CSS para esses tipos de ajustes
 _____________________________________________________________________________________________
 FORMATAÇÕES ADICIONAIS
 
 O comando code, deixa as palavras com tamanhos iguais.
+O comando abbr, é usado para colocar aqueles nomes quando você coloca o mouse em cima da palavra
 
 _____________________________________________________________________________________________
 CRIANDO LISTAS
 
-Para usa listas ordenadas, em sequencias, podemos usar a tag <ol>
-Para escolher o tipo de sequencia, usa se <ol type="i"> (temos o tipo, I,i,a,A e 1)
+Para usa listas ordenadas, em sequências, podemos usar a tag <ol>
+Para escolher o tipo de sequência, usa se <ol type="i"> 
+(temos o tipo, I=MAIÚSCULAS, i MINÚSCULAS,A e 1 PARA NÚMERICA)
 usa se a tag, depois para lista os itens, usar <li>, o fechamento da <li> é opcional
 
 Para usa listas não ordenadas, podemos usar a tag <ul>
@@ -89,6 +93,7 @@ Você pode criar páginas dentro do seu próprio site, basta criar varias "index
 Para navegar entre as pastas usando o a href: para ir pra próxima saur ctrl+espaço e procurar pasta. Para voltar clicar ../
 
 LINK DOWNLOADS
+Ev
 
 
 
