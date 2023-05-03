@@ -93,7 +93,15 @@ Você pode criar páginas dentro do seu próprio site, basta criar varias "index
 Para navegar entre as pastas usando o a href: para ir pra próxima saur ctrl+espaço e procurar pasta. Para voltar clicar ../
 
 LINK DOWNLOADS
-Ev
+
+_____________________________________________________________________________________________
+IMAGENS DINÂMICAS
+
+tag pra inserir png <picture>
+a tag picture, permite inserir varias sources (src dentro)
+
+
+
 
 
 
