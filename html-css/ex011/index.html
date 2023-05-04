@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midias em HTML</title>
+</head>
+<body>
+    <h1>Imagens dinamicas</h1>
+    <p>Abrindo imagens em diferentes dispositivos</p>
+    <picture>
+        <source media="(max-widht: 750px)" srcset="imagens/foto-p.png" type="imagem/png">
+        <source media="(max-widht: 1050px)" srcset="imagens/foto-m.png" type="imagem/png">
+        <img src="imagens/foto-g.png" alt="Imagem flexivel">
+    </picture>
+    <h1>Adicionando audio na página</h1>
+    <p>Reproduzindo audios em HTML</p>
+
+    <audio src="midia/rock-music.mp3" controls autocapitalize=""></audio> <!--bom ter o formato mp3 wav ou ogg-->
+
+ 
+</body>
+</html>
