@@ -100,6 +100,19 @@ IMAGENS DINÂMICAS
 tag pra inserir png <picture>
 a tag picture, permite inserir varias sources (src dentro)
 
+_____________________________________________________________________________________________
+INTRODUÇÃO A CSS
+
+O que vamos estudar:
+psicologias das cores
+círculo cromáticos
+paletas de cores
+tipografias/fontes
+anatomia das fontes
+caracteristicas da css
+alinhamentos e parágrafos
+box(bordas, sombras, alinhamento etc
+
 
 
 
