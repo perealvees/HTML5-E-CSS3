@@ -113,7 +113,27 @@ caracteristicas da css
 alinhamentos e parágrafos
 box(bordas, sombras, alinhamento etc
 
+_____________________________________________________________________________________________
+PSICOLOGIA DAS CORES
 
+se atentar ao tema do site (olhar as cores para cada tema)
+evitar usar site com fundo preto letras brancas, causa cansaço
+
+_____________________________________________________________________________________________
+REPRESENTANDO AS CORES
+
+podemos representar:
+1 - nome: blue, red, gray ...
+
+2 - o que significa hexadecimais?
+numeros decimais são -> 0 1 2 3 4 5 6 7 8 9 (10 digitos)
+números hexadecimais, são os 10 numeros + ABCDEF (16 digitos)
+
+
+3 - ou usando o RGB (red, green, blue)
+as cores são as misturas das cores: vermelho, verde e azul
+
+4 - usando hsl (hue, saturation, luminosity ...)
 
 
 
