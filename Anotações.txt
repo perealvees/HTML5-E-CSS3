@@ -135,9 +135,29 @@ as cores são as misturas das cores: vermelho, verde e azul
 
 4 - usando hsl (hue, saturation, luminosity ...)
 
+_____________________________________________________________________________________________
+HARMONIA DAS CORES
 
+Circulo cromático
+Cores primárias: amarelo, vermelho e azul
+Cores secundárias: laranja, verde e violeta
+Cores terciárias: combinações das cores primárias e secundárias
 
+Tem cores quentes e cores frias, circulo cromático dividido no meio
+Uma paleta de cores tem que ter de 3 a 5 cores
 
+Cores complementares
+São cores onde uma se destaca da outra com contraste
+Escolher a cor principal e olhar pro lado oposto do círculo cromático
+
+Cores analogas
+Cores que não tem contraste uma da outra
+
+_____________________________________________________________________________________________
+PALETAS DAS CORES
+você pode acessar o adobe color para comparar e pegar ideias de paletas
+acessar paletton.com que da exemplos direto no site
+coolors - simples mas direto
 
 
 
