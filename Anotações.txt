@@ -159,6 +159,11 @@ você pode acessar o adobe color para comparar e pegar ideias de paletas
 acessar paletton.com que da exemplos direto no site
 coolors - simples mas direto
 
+_____________________________________________________________________________________________
+CAPTURA DE TELAS
+extensão para capturar cores na tela, adicionar extensão google: colorZilla
+
+
 
 
 
