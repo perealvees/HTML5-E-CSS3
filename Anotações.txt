@@ -12,7 +12,6 @@ HTML Entities - usados para simbolos especiais como copyrigh, oficial, marca reg
 Para ver emojis, acessar emojipedia.
 
 _____________________________________________________________________________________________
-
 IMAGENS:
 Se atentar aos direitos autorais.
 Sites para buscar imagens: unplash, pexels, freepik.
@@ -24,11 +23,9 @@ JPEG - compacta a imagem, alta compactação
 PNG - usado para subsituir o GIF, que permite transparencia e animação
 
 _____________________________________________________________________________________________
-
 TAG IMG 
 Sempre usar imagens pequenas para 
 ______________________________________________________________________________________________
-
 FAVICON
 Para adicionar um icone na janela do site, basta baixar uma imagem com extensão ico
 Tem como converter uma imagem em ico, através do site https://favicon.io/favicon-converter/
@@ -36,18 +33,15 @@ Tem como converter uma imagem em ico, através do site https://favicon.io/favico
 Na html, deve usar a tag <link rel: favicon ...>
 Manter padrão o nome do arquivo como favicon
 ______________________________________________________________________________________________
-
 EMOJIS
 
 usar o código &#x, seguido do número do emojo de acordo com emojipedia
 pode copiar direto mas é bom decorar o &#x
 _____________________________________________________________________________________________
-
 HIERARQUIA DE TÍTULOS 
 Os niveis de hierarquia não tem nada a ver com tamanho, e sim ordem e estrutura do parágrafo
 Os niveis vai de 1 a 6, não existe mais que isso
 _____________________________________________________________________________________________
-
 SEMÂNTICA HTML
 Ter significado o que esta estruturando
 Tags que estão em obsoleto NÃO DEVEM SER USADAS MAIS
@@ -56,7 +50,6 @@ Tags que estão em obsoleto NÃO DEVEM SER USADAS MAIS
 Consultar as tags em desuso: https://www.w3.org/TR/2014/REC-html5-20141028/obsolete.html
 
 _____________________________________________________________________________________________
-
 FORMATAÇÕES DE FONTE
 
 Atalho pra formatação rápida
@@ -163,7 +156,10 @@ ________________________________________________________________________________
 CAPTURA DE TELAS
 extensão para capturar cores na tela, adicionar extensão google: colorZilla
 
-
+para deixar a tela com gradiente usar o: background-image: linear gradient.
+Para isso voce colocar no primeiro parametro a direção, depois a cor que começa, depois a cor que termina
+_____________________________________________________________________________________________
+IMAGENS:
 
 
 
