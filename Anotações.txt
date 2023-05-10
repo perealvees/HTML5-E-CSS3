@@ -159,7 +159,22 @@ extensão para capturar cores na tela, adicionar extensão google: colorZilla
 para deixar a tela com gradiente usar o: background-image: linear gradient.
 Para isso voce colocar no primeiro parametro a direção, depois a cor que começa, depois a cor que termina
 _____________________________________________________________________________________________
-IMAGENS:
+ESTUDO BÁSICO DE TIPOGRAFIA
+
+O termo tipografia surgiu no seculo xv, quando surgiu a imprensa
+tipografia =  tipos de escrita
+todas as alturas, são baseadas no tamanho da letra x minuscula
+
+font family (medidas absolutas: cm, mm, in, px, pt,pc), é quando ele da sugestão de tipos de grafia, caso a primeira não seja encontrada
+font-size (px e em)
+font weight (peso da font
+
+shorthand, fazer nessa ordem:
+font-style > weight, size family
+
+se atentar se a fonte externa escolhida, tem acentos pois em alguns idiomas não existe acentuação
+
+
 
 
 
