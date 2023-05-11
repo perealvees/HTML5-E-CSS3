@@ -173,8 +173,11 @@ shorthand, fazer nessa ordem:
 font-style > weight, size family
 
 se atentar se a fonte externa escolhida, tem acentos pois em alguns idiomas não existe acentuação
+_____________________________________________________________________________________________
+USANDO O SITES PARA DESCOBRIR A FONTE
 
-
+Adicionar a extensão do goolge Fonte Ninjas para captura de tipo de grafias
+o site whatfontis.com e o myfonts.com
 
 
 
