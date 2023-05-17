@@ -240,6 +240,26 @@ lembrando que pseudo-classes são palavras que define estado de elemtno dentros 
 _____________________________________________________________________________________________
 Modelo de Caixas em CSS
 
+aninhamento - quando coloca uma caixa dentro da outra
+altura  = height
+width   = largura
+border  = traçar linha, borda em volta
+padding = preenchimento, espaco da borda ao preechimento
+margin  = separa as bordas da caixa
+outline = contorno
+
+existem dois tipos de caixa:
+box-level = sempre inicia na linha de baixo, vai desenhar um box, sempre ocupa a largura total da tela
+
+inline-level = continua na mesma linha, não quebra linha, quando por exemplo quer ter uma imagem no meio da página
+
+<div> sempre é um box-level
+<span> expansão de código, não quebra linha, quando quiser um elemento e aprocima caixa esta do lado	
+
+
+
+
+
 
 
 
