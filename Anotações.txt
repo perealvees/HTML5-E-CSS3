@@ -193,7 +193,7 @@ se você tiver varios H1 por exemplo e quer que só um fique estilizado, no prin
 <h1 id="principal">
 Por mais que você tenha 30 h1, só o principal vai ter aquela personalização
 
-
+______________________________________________________________________________________________
 Diferença de ID e Class
 ID - é uma formatação que só pode ser usada uma única vez
 
@@ -207,6 +207,13 @@ o id sobrepoe o class
 pra configurar, você respeita a hierarquia
 _____________________________________________________________________________________________
 Pseudo-Classe
+
+#  = id
+.  = class
+:  = pseudo-class
+:: = pseudo-element
+>  = children
+
 
 são tipo as ações da classe.
 Por exemplo para usar o hover, você usa:  div:hover dai quando o mouse passar em cima dessa classe, ele terá uma ação
@@ -228,8 +235,10 @@ Exemplo: quando você colocar o mouse em cima de uma palavra, mostrar um frase:
         }
 
 
+lembrando que pseudo-classes são palavras que define estado de elemtno dentros da html
 
-
+_____________________________________________________________________________________________
+Modelo de Caixas em CSS
 
 
 
