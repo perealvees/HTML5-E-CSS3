@@ -180,8 +180,52 @@ Adicionar a extensão do goolge Fonte Ninjas para captura de tipo de grafias
 o site whatfontis.com e o myfonts.com
 
 
+_____________________________________________________________________________________________
+Alinhamento texto
+
+Os textos alinham para esquerda, direita e centralizado
+Para o paragrafo ter aquele espacinho a esquerda, usar o text-indent
+
+_____________________________________________________________________________________________
+Usando o ID com CSS
+E que momento temos que usar o seletor?
+se você tiver varios H1 por exemplo e quer que só um fique estilizado, no principal você coloca 
+<h1 id="principal">
+Por mais que você tenha 30 h1, só o principal vai ter aquela personalização
 
 
+Diferença de ID e Class
+ID - é uma formatação que só pode ser usada uma única vez
+
+Class - faz uma formatação personalizada e eu posso aplicar a varios elementos
+você pode usar duas classes dentro da tag
+por exemplo, se tiver uma class basico e a outra em negrito, você coloca:
+class="id basico negrito"
+
+o id sobrepoe o class
+
+pra configurar, você respeita a hierarquia
+_____________________________________________________________________________________________
+Pseudo-Classe
+
+são tipo as ações da classe.
+Por exemplo para usar o hover, você usa:  div:hover dai quando o mouse passar em cima dessa classe, ele terá uma ação
+
+Exemplo: quando você colocar o mouse em cima de uma palavra, mostrar um frase:
+ div > p {
+            display: none;
+        }
+
+        div:hover > p {
+            display: block;
+            color: aliceblue;
+            background-color: black;
+            width: 150px;
+        }
+
+        div:hover {
+            color: rgb(3, 3, 3);
+        }
 
 
 

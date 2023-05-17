@@ -1,0 +1,33 @@
+/* em HTML tudo que for id, quando vai para o css vira # 
+   Tudo que flor class, vira ponto */
+
+body {
+    background-color: rgb(201, 233, 231);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: rgb(2, 2, 85);
+}
+
+h1#principal {
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(29, 29, 179, 0.801);
+}
+
+h2 {
+    color: rgba(6, 6, 148, 0.815);
+}
+
+.basico{
+    color: black;
+}
+
+.intermediario {
+    color: darkred;
+}
+
+.avancado {
+    color: fuchsia;
+}
