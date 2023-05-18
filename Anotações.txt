@@ -274,7 +274,12 @@ main: conteúdo principal > section (assuntos) repetir 2x > dentro do section um
 footer: rodapé > parágrafo
 
 _____________________________________________________________________________________________
-Caixas com vértices arrendondadas
+Sombras e Arredondamento ds caixas
+
+pode usar % também no lugar do px
+
+box-shadown = sombra
+border-radius = arredondamento dos cantos
 
 
 
