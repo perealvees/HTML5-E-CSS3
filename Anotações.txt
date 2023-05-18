@@ -208,6 +208,10 @@ pra configurar, você respeita a hierarquia
 _____________________________________________________________________________________________
 Pseudo-Classe
 
+Para as caixas ficarem na mesma linha, usar o display: inline-block
+Quando o display estiver "none", a palavra desaparece
+Quando o display estiver "block", a palavra aparece
+
 #  = id
 .  = class
 :  = pseudo-class
