@@ -256,6 +256,11 @@ inline-level = continua na mesma linha, não quebra linha, quando por exemplo qu
 <div> sempre é um box-level
 <span> expansão de código, não quebra linha, quando quiser um elemento e aprocima caixa esta do lado	
 
+h1 e p - são caixas box-level
+links são caixas inline-level
+
+user agent - é sempre o navegador exibindo o seu conteudo
+
 
 
 
