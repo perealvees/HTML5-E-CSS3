@@ -273,7 +273,8 @@ header: cabeçalho > h1 >nav (para por links)
 main: conteúdo principal > section (assuntos) repetir 2x > dentro do section um article h2 e p
 footer: rodapé > parágrafo
 
-
+_____________________________________________________________________________________________
+Caixas com vértices arrendondadas
 
 
 

@@ -24,8 +24,8 @@ nav > a {
 
 main {
     background-color: rgb(168, 12, 12);
-    padding: 10px;
-    margin: 10px;
+    padding: 1px;
+    margin: 1px;
 }
 
 article{
@@ -34,6 +34,8 @@ article{
 
 article > aside {
     background-color: brown;
+    margin: 10px;
+    padding: 5px;
 }
 
 footer {
@@ -42,4 +44,13 @@ footer {
     text-align: center;
     padding: 1px;
     margin: 0px;
+}
+
+footer > p {
+    margin: 0px;
+}
+
+aside {
+    margin: 5px;
+    padding: 5px;
 }
