@@ -260,11 +260,18 @@ h1 e p - são caixas box-level
 links são caixas inline-level
 
 user agent - é sempre o navegador exibindo o seu conteudo
+margem: auto - recentraliza caixa no meio, se for texto usar o text-align
+
+para simplicar
+border: 10px(largura margem) solid(tipo margem) color
+margin: se for valores iguais, usar 1 medida só, se não usar assim: margin: 10px 10px 8px 8px;
+padding: 
 
 
-
-
-
+dentro do body:
+header: cabeçalho > h1 >nav (para por links)
+main: conteúdo principal > section (assuntos) repetir 2x > dentro do section um article h2 e p
+footer: rodapé > parágrafo
 
 
 

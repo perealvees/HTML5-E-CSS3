@@ -5,7 +5,15 @@ h1 {
     border-width: 10px; /* espessura da borda */
     border-style: solid; /* tipo de linha da borda */
     border-color: rgb(74, 180, 74); /* a cor da linha da borda */
-    padding: 10px; /* espaço interno */
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
 }
 
 p {
@@ -17,6 +25,9 @@ a {
     background-color: rgb(241, 154, 154);
     border-style: solid;
     border-width: 2px;
-    border-color: rgb(250, 5, 5);
-    
+    border-color: rgb(141, 12, 12);
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-left: 10px;
 }

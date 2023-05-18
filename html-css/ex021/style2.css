@@ -1,0 +1,45 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(230, 146, 146);
+    margin: 0px;
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 10px;
+}
+
+nav{
+   background-color: rgb(49, 48, 48); 
+   padding: 3x;
+}
+
+nav > a {
+    text-decoration: none;
+    color: wheat;
+    font-weight: bold;
+}
+
+
+main {
+    background-color: rgb(168, 12, 12);
+    padding: 10px;
+    margin: 10px;
+}
+
+article{
+    background-color: gray;
+}
+
+article > aside {
+    background-color: brown;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    margin: 0px;
+}
