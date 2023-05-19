@@ -1,5 +1,5 @@
 h1 {
-    background-color: rgb(173, 169, 169); /* cor do fundo da borda */
+    background-color: rgba(223, 215, 215, 0.774); /* cor do fundo da borda */
     height: 300px; /* altura borda */
     width: 300px; /* largura borda */
     border-width: 10px; /* espessura da borda */
