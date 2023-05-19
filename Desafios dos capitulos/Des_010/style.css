@@ -27,16 +27,17 @@ h1 {
 nav{
     display: flex;
     background-color: rgba(13, 95, 24, 0.397);
-    margin: 1px;
-    padding: 1px;
+    margin: auto;
+    padding: 2px;
 }
 
 a{
+
     text-align: center;
     text-decoration-line: none;
     color: rgb(255, 255, 255);
-    height: 300px;
-    width: 300px;
+    height: 20px;
+    width: 200px;
 }
 
 main{
