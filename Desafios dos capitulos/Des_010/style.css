@@ -1,3 +1,30 @@
+:root{
+
+    --cor0: #c5ebd6;
+    --cor0: #83e1ad;
+    --cor0: #3ddc84;
+    --cor0: #2fa866;
+    --cor0: #1a5c37;
+    --cor0: #063d1e;
+
+    --fonte-padrao: 'Segoe UI', Tahoma, Verdana, sans-serif
+}
+
 body {
-    background-color: rgb(128, 165, 138);
+    background-color: #c5ebd6
+    font-family: var(--fonte-padrao);
+}
+
+header > h1 {
+    font-family: var(--fonte-padrao);
+    background-color: #1a5c37;
+    color: #83e1ad;
+}
+
+main {
+    font-family: var(--fonte-padrao);
+}
+
+p {
+    font-family: var(--fonte-padrao);
 }
