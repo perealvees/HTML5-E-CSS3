@@ -11,8 +11,9 @@
 }
 
 body {
-    background-color: #c5ebd6
+    background-color: #c5ebd6;
     font-family: var(--fonte-padrao);
+    
 }
 
 header > h1 {
