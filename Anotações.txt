@@ -285,6 +285,11 @@ pode usar % também no lugar do px
 box-shadown = sombra
 border-radius = arredondamento dos cantos
 
+_____________________________________________________________________________________________
+Imagens de fundo
+
+
+
 
 
 
