@@ -293,7 +293,10 @@ cor solida:             background-color: rgb(85, 27, 27);
 cor com gradiente:      background-image: linear-gradient(to bottom, gray, red);
 fundo de imagem: 	background-image: url(imagens/pattern001.png);
 
+quando você adiciona uma imagem e ela fica repetindo varias vezes, usa o backgroud-repeat:
+background-repeat: no-repeat;
 
+pode usar o repeat-x(para repetir em linha) e o repeat-y(para repetir em coluna)
 
 
 
