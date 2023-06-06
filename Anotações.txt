@@ -298,7 +298,12 @@ background-repeat: no-repeat;
 
 pode usar o repeat-x(para repetir em linha) e o repeat-y(para repetir em coluna)
 
+_____________________________________________________________________________________________
+Posicionando imagens de fundo
 
+Para fixar a imagem ou o main na tela, tem duas opções:
+background-attachment: fixed; (o fundo não se mexe)
+background-attachment: scroll; (o main rola junto com a imagem)
 
 
 
