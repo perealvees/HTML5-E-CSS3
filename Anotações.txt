@@ -313,6 +313,33 @@ size: ainda não ta dando certo, colocar em baixo do shorthand
 _____________________________________________________________________________________________
 Centralização vertical de caixas
 
+o margin só serve para alinhamento horizontal, então podemos usar o position absolute e o position relative
+no exemplo do video, o container, que é a caixa maior, tem uma position relative, então o bloco que fica dentro do container, deve ser position absolute
+se o bloco estiver declarado com POSITION ABSOLUTE, você consegue ajustar o bloco usando o left e top 
+
+<style>
+        #container {
+            background-image: url(imagens/target001.png);
+            background-size: 100% 100%;
+            position: relative;
+            height: 96vh;
+            background-color: purple;
+            padding: 10px;
+        }
+
+        #conteudo {
+            position: absolute;
+            height: 200px;
+            background-color: yellow;
+            width: 400px;
+
+            left: 50%;
+            top: 50%;
+
+            transform: translate(-50%, -50%);
+        }
+    </style>
+
 
 
 
