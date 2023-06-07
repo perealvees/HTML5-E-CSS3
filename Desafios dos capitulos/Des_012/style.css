@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    padding: 0px;
+} /*deixar default para a gente mesmo configurar ao nosso gosto*/
+
+html, body {
+    background-color: rgba(211, 199, 199, 0.623);
+    min-height: 100vh;
+}
+
+header {
+    background-color: rgb(3, 3, 3);
+    color: white;
+    text-align: center;
+}
+
+header > p {
+    padding-bottom: 50px;
+}
+
+header > h1 {
+    font-variant: small-caps;
+    padding-top: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: blanchedalmond;
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+section { 
+    line-height: 2em;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 30px;
+}
+
+section.normal {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+section.imagem{
+    background-color: rgb(138, 29, 29);
+    color: aliceblue;
+}
+
+section.imagem > p {
+    background-color: rgba(233, 112, 112, 0.671);
+    width: 400px;
+}
+
+
+footer{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-align: center;
+    padding: 6px;
+}
