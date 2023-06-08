@@ -340,6 +340,10 @@ se o bloco estiver declarado com POSITION ABSOLUTE, você consegue ajustar o blo
         }
     </style>
 
+_____________________________________________________________________________________________
+Trabalhando com Tabelas
+
+<<<< Você não pode usar tabelas para criar a estrutura do seu site >>>>
 
 
 
