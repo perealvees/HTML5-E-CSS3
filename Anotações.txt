@@ -344,6 +344,14 @@ ________________________________________________________________________________
 Trabalhando com Tabelas
 
 <<<< Você não pode usar tabelas para criar a estrutura do seu site >>>>
+todas as tabelas simples, tem essa hierarquia
+table>table row> table header>table data
+se não colocar os dados na hierarquia ou não colocar as tags, as informações vão parar no final ou no começo da estrutura
+
+o text-align, pode ser usado para alinhar horizontalmente (top, center, bottom)
+o vertical-align, pode ser usado para alinhar verticalmente (top, middle, bottom)
+
+
 
 
 
