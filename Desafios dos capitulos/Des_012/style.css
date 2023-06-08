@@ -6,6 +6,7 @@
 html, body {
     background-color: rgba(211, 199, 199, 0.623);
     min-height: 100vh;
+    font-family: cursive
 }
 
 header {
@@ -42,22 +43,42 @@ section {
     padding-left: 30px;
 }
 
+section.imagem > p {
+    display: inline-block;
+    padding: 5px;
+    background-color: rgba(26, 23, 29, 0.623);
+    text-shadow: 1px 1px 0px black;
+}
+
+
 section.normal {
     background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
+    color: rgb(7, 7, 7);
 }
 
 section.imagem{
-    background-color: rgb(138, 29, 29);
-    color: aliceblue;
+    background-color: rgba(255, 255, 255, 0.61);
+    color: rgb(255, 255, 255);
+    box-shadow: inset 6px 6px 13px 0px rgba(53, 52, 52, 0.37);
+    background-attachment: fixed;
+    background-size: cover;
 }
 
-section.imagem > p {
-    background-color: rgba(233, 112, 112, 0.671);
-    width: 400px;
-    display: inline-block;
-    padding: 2%;
+
+
+section#img01{
+    background-image: url(imagens/background001.jpg);
+    background-position: right center;
+    background-size: cover;
 }
+
+section#img02{
+    background-image: url(imagens/background002.jpg);
+    background-size: cover;
+}
+
+
+
 
 
 footer{
