@@ -5,38 +5,50 @@
 
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
-
+    font-size: 15px;
+    border: 3px solid white;
+    text-align: center;
 }
 
 .cabecalho{
-    background-color: rgb(235, 163, 82);
-    height: 120px;
+    background-color: rgba(247, 151, 42, 0.856);
+    height: 90px;
+    margin: 0 auto;
+    border: 3px solid white;
+    text-align: center;
 }
 
 .navegacao{
-    background-color: rgb(139, 209, 139);
-    height: 300px;
+    background-color: rgba(85, 231, 85, 0.829);
+    height: 390px;
     width: 250px;
     float: left;
+    border: 3px solid white;
+    text-align: left;
 }
 
 .principal{
-    background-color: rgb(161, 157, 157);
-    height: 300px;
-    width: 800px;
+    background-color: rgba(161, 157, 157, 0.774);
+    height: 390px;
+    width: 840px;
     float: left;
+    border: 3px solid rgb(255, 255, 255);
+    text-align: center;
 }
 
 .lado{
-    background-color: rgb(115, 206, 218);
-    height: 300px;
+    background-color: rgba(74, 210, 228, 0.863);
+    height: 390px;
     width: 250px;
     float: right;
+    border: 3px solid white;
+    text-align: right;
 }
 
 .rodape{
-    background-color: lightcoral;
-    height: 120px;
-    
+    background-color: rgba(240, 128, 128, 0.966);
+    height: 90px;
+    clear: both;
+    border: 3px solid white;
+    text-align: center;
 }
