@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+
+}
+
+.cabecalho{
+    background-color: rgb(235, 163, 82);
+    height: 120px;
+}
+
+.navegacao{
+    background-color: rgb(139, 209, 139);
+    height: 300px;
+    width: 250px;
+    float: left;
+}
+
+.principal{
+    background-color: rgb(161, 157, 157);
+    height: 300px;
+    width: 800px;
+    float: left;
+}
+
+.lado{
+    background-color: rgb(115, 206, 218);
+    height: 300px;
+    width: 250px;
+    float: right;
+}
+
+.rodape{
+    background-color: lightcoral;
+    height: 120px;
+    
+}
