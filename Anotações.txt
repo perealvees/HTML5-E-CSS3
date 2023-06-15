@@ -281,8 +281,9 @@ ________________________________________________________________________________
 Sombras e Arredondamento ds caixas
 
 pode usar % também no lugar do px
-
 box-shadown = sombra
+box-shadown = 0px(x) 5px(y) 2px(blur) black 
+
 border-radius = arredondamento dos cantos
 
 _____________________________________________________________________________________________
