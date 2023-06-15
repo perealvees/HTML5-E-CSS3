@@ -1,0 +1,61 @@
+* {
+    margin: 5px;
+    padding: 0;
+}
+
+body{
+    background-color: rgba(94, 199, 199, 0.623);
+    color: rgb(236, 221, 221);
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 95vh;
+}
+
+.main{
+    display: flex;
+    flex: 1;
+    border: 2px solid rgb(244, 244, 245);
+    border-radius: 7px;
+}
+
+header{
+    background-color: rgb(43, 106, 224);
+    padding: 2em 0 2em 0;
+    border: 2px solid rgb(79, 79, 172);
+    border-radius: 7px;
+}
+
+.left{
+    background-color: rgb(43, 106, 224);
+    padding: 3em 0 3em 0;
+    flex: 1 1 100px;
+    border: 2px solid rgb(79, 79, 172);
+    border-radius: 7px;
+}
+
+main{
+    background-color: rgb(43, 106, 224);
+    padding: 3em 0 3em 0;
+    flex: 5 5 150px;
+    border: 2px solid rgb(79, 79, 172);
+    border-radius: 7px;    
+}
+
+.right{
+    background-color: rgb(43, 106, 224);
+    padding: 3em 0 3em 0;
+    flex: 1 1 100px;
+    border: 2px solid rgb(79, 79, 172);
+    border-radius: 7px;
+}
+
+footer{
+    background-color: rgb(43, 106, 224);
+    height: 140PX;
+    border: 2px solid rgb(79, 79, 172);
+    border-radius: 7px;
+}
