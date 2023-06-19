@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.747);
+}
+
+header{
+    background-color: rgb(212, 194, 230);
+    height: 80px;
+    width: 100%;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+a {
+    justify-content: space-between;
+    align-items: center;
+}
+
