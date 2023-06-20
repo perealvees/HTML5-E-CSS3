@@ -13,12 +13,8 @@ header{
     background-color: rgb(212, 194, 230);
     height: 80px;
     width: 100%;
-    justify-content: space-between;
-    text-decoration: none;
 }
 
 a {
-    justify-content: space-between;
-    align-items: center;
+    text-decoration: none;
 }
-
