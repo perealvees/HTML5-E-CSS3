@@ -1,0 +1,89 @@
+*{
+   margin: 0; 
+   padding: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+}
+
+body{
+    background-color: rgb(21, 141, 150);
+    width: 100%;
+}
+
+.cabecalho{
+    background-color: rgb(18, 68, 77);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+.cabecalho-imagem{
+    height: 35px;
+    width: 35;
+    padding: 2px;
+    justify-content: initial;
+}
+
+img{
+    padding: 20px;
+    height: 500px;
+    width: 980;
+    border-radius: 1200px;
+}
+
+.cabecalho-menu{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.cabecalho-item{
+    color: rgb(28, 238, 245);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+.conteudo-principal{
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    color: aliceblue;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.conteudo-principal-escrito{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.conteudo-principal-escrito h1 {
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    font-size: 64px;
+}
+
+.conteudo-principal-escrito h2 {
+    color: rgb(5, 53, 50);
+}
+
+.conteudo-principal-escrito button {
+    color: rgb(3, 3, 3);
+    font-weight: 300;
+    background-color: rgb(228, 222, 222);
+    border-radius: 4px;
+    width: 160px;
+    height: 30px;
+    border: none;
+    box-shadow: 3px 3px 3px rgba(82, 77, 77, 0.747);
+}
+
+.meninocapuz{
+    padding-top: 20px;
+    border: 2px solid rgb(12, 70, 85);
+    height: 400px;
+}
+
