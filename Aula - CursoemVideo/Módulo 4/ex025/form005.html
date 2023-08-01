@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List e Option</title>
+</head>
+<body>
+    <h1>Exemplo de formulário</h1>
+    <form action="cadastro.php" method="post" autocomplete="off">
+        <p>
+            <label for="iest">Estado:</label>
+            <select name="estado" id="iestado">
+                <option value="">Selecione seu estado</option>
+                <option value="SP">São Paulo</option>
+                <option value="PR">Paraná</option>
+                <option value="RJ">Rio de Janeiro</option>
+                <option value="RS">Rio Grande do Sul</option>
+                <option value="RO">Rondonia</option>
+            </select>
+        </p>
+        <p>
+            <label for="iprof">Profissão:</label>
+            <input type="text" name="prof" id="iprof" list="listprof">
+
+            <datalist id="listprof">
+            <option value="ADM">Administração</option>
+            <option value="RH">Recursos Humanos</option>
+            <option value="CON">Contabilidade</option>
+            <option value="ADS">Analise e Des. de Sistemas</option>
+        </datalist>
+        </p>
+
+        <p>
+            <label for="imsg">Mensagem</label><br>
+            <textarea name="msg" id="imsg" cols="70" rows="10"></textarea>
+        </p>
+        
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+
+    </form>
+</body>
+</html>
