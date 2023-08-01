@@ -1,0 +1,19 @@
+* {
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+html{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    line-height: 1.5em; /*espaçamento nas linhas*/
+}
+
+menu{
+    display: none;
+}
+
+article{
+    width: 100%;
+}

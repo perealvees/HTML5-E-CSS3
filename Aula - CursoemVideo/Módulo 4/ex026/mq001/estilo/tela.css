@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+header{
+    background-color: gray;
+}
+
+header > h1 {
+    background-color: rgb(105, 104, 104);
+    padding: 10px;
+    text-align: center;
+}
+
+menu li{
+    font-size: 15px;
+    list-style: none;
+    display: inline-block;
+    background-color: rgba(19, 18, 18, 0.63);
+    color: antiquewhite;
+    padding: 4px;
+}
+
+article{
+    padding-top: 20px;
+    display: block;
+    width: 600px;
+    margin: auto;
+}
