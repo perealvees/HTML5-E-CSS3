@@ -1,17 +1,17 @@
 /*configurações gerais*/
 
-*{
+* {
     padding: 0px;
     margin: 0px;
 }
 
-body, html{
-    background-color: rgba(43, 79, 197, 0.74);
+body{
     width: 100vw;
     height: 100vh;
-    background-size: contain;
-    background-position: center;
+    background-color: (#233eff);
+    background-size: cover;
     background-repeat: no-repeat;
+   
 }
 
 h1{
