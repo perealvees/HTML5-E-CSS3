@@ -1,1 +1,21 @@
 /*configurações gerais*/
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body, html{
+    background-color: rgba(43, 79, 197, 0.74);
+    width: 100vw;
+    height: 100vh;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1{
+    padding: 10px;
+    color: aliceblue;
+}
+
