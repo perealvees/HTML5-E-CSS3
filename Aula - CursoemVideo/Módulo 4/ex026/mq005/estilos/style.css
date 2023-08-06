@@ -15,9 +15,21 @@ header{
     font-size: 20px;
 }
 
+i#burger{
+    background-color: rgb(99, 98, 98);
+    width: 100vw;
+}
+
+#burger:hover{
+    background-color: rgb(15, 15, 15);
+    color: aliceblue;
+    width: 100vw;
+    cursor: pointer;
+}
+
 menu{
     background-color: rgb(84, 129, 180);
-    display: block;
+    display: none;
     
 }
 

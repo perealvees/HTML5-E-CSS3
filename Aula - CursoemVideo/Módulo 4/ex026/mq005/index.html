@@ -7,12 +7,13 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">
     <link rel="stylesheet" href="estilos/style.css">
+    <link rel="stylesheet" href="estilos/medias-query.css">
 </head>
 <body>
     <header>
         <h1>Meu site</h1>
-        <span class="material-icons">menu</span>
-            <menu>
+        <i id="burger" class="material-icons" onclick="clickMenu()">menu</i>
+            <menu id="itens">
                 <ul>
                     <li><a href="#">Esportes</a></li>
                     <li><a href="#">Músicas</a></li>
@@ -31,6 +32,15 @@
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus nam eos, ratione, ea impedit veritatis nulla aspernatur cupiditate dignissimos mollitia, ut quaerat? Consequatur aspernatur vel quia culpa! Modi, velit ad! Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ad dolore voluptatibus temporibus facilis dolorem vero, magni sunt voluptas inventore. Reiciendis, voluptates similique! Rem, magni autem explicabo nesciunt nobis unde.</p><br>
         </article>
     </main>
-    
+    <script>
+        function clickMenu() {
+            if (itens.style.display == 'block') {
+                itens.style.display = 'none'
+            } else {
+                itens.style.display = "block"
+            }
+                
+        }
+    </script>
 </body>
 </html>
