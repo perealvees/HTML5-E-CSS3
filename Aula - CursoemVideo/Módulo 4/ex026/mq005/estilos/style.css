@@ -28,7 +28,7 @@ i#burger{
 }
 
 menu{
-    background-color: rgb(84, 129, 180);
+    background-color: rgb(170, 189, 214);
     display: none;
     
 }
@@ -39,7 +39,7 @@ menu ul{
 }
 
 menu > ul > li > a {
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     text-align: center;
     display: block;
@@ -48,8 +48,8 @@ menu > ul > li > a {
 }
 
 menu > ul > li > a:hover {
-    background-color: rgba(208, 211, 214, 0.514);
-    color: rgb(48, 47, 47);
+    background-color: rgba(255, 255, 255, 0.514);
+    color: rgb(122, 119, 119);
 }
 
 main{
